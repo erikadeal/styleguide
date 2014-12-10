@@ -1,0 +1,19 @@
+/* ===========================================
+
+					MAIN.SCSS
+
+=============================================*/
+
+@import 'bootstrap-custom';
+@import 'components/grid';
+@import 'components/colors';
+@import 'components/typography';
+@import 'components/buttons';
+@import 'components/forms';
+@import 'components/mixins';
+@import 'components/patterns';
+
+@import 'layouts/body';
+@import 'layouts/nav';
+@import 'layouts/content';
+@import 'layouts/footer';
